@@ -18,7 +18,7 @@
     <distributionManagement>
         <snapshotRepository>
             <id>snapshots</id>
-            <url>http://repository-relicum.forge.cloudbees.com/snapshot/</url>
+            <url>http://repository-relicum.forge.cloudbees.com/snapshot</url>
         </snapshotRepository>
     </distributionManagement>
 
